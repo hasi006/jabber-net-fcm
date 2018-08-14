@@ -68,13 +68,11 @@ namespace Fcm_JabberNet_Connect
 
         private static void jc_OnReadText(object sender, string txt)
         {
-            if (txt != " ")
                 Console.WriteLine("RECV: " + txt);
         }
 
         private static void jc_OnWriteText(object sender, string txt)
         {
-            if (txt != " ")
                 Console.WriteLine("SENT: " + txt);
         }
     }
