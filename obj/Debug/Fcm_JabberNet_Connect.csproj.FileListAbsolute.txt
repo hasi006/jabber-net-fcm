@@ -1,0 +1,10 @@
+c:\users\hasintha.lasheen\Source\Repos\Fcm_JabberNet_Connect\Fcm_JabberNet_Connect\bin\Debug\Fcm_JabberNet_Connect.exe.config
+c:\users\hasintha.lasheen\Source\Repos\Fcm_JabberNet_Connect\Fcm_JabberNet_Connect\bin\Debug\Fcm_JabberNet_Connect.exe
+c:\users\hasintha.lasheen\Source\Repos\Fcm_JabberNet_Connect\Fcm_JabberNet_Connect\bin\Debug\Fcm_JabberNet_Connect.pdb
+c:\users\hasintha.lasheen\Source\Repos\Fcm_JabberNet_Connect\Fcm_JabberNet_Connect\bin\Debug\jabber-net.dll
+c:\users\hasintha.lasheen\Source\Repos\Fcm_JabberNet_Connect\Fcm_JabberNet_Connect\bin\Debug\netlib.Dns.dll
+c:\users\hasintha.lasheen\Source\Repos\Fcm_JabberNet_Connect\Fcm_JabberNet_Connect\obj\Debug\Fcm_JabberNet_Connect.csprojAssemblyReference.cache
+c:\users\hasintha.lasheen\Source\Repos\Fcm_JabberNet_Connect\Fcm_JabberNet_Connect\obj\Debug\Fcm_JabberNet_Connect.csproj.CoreCompileInputs.cache
+c:\users\hasintha.lasheen\Source\Repos\Fcm_JabberNet_Connect\Fcm_JabberNet_Connect\obj\Debug\Fcm_JabberNet_Connect.csproj.CopyComplete
+c:\users\hasintha.lasheen\Source\Repos\Fcm_JabberNet_Connect\Fcm_JabberNet_Connect\obj\Debug\Fcm_JabberNet_Connect.exe
+c:\users\hasintha.lasheen\Source\Repos\Fcm_JabberNet_Connect\Fcm_JabberNet_Connect\obj\Debug\Fcm_JabberNet_Connect.pdb
